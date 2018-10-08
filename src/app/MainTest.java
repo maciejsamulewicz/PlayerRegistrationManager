@@ -3,7 +3,11 @@ package app;
 import java.awt.EventQueue;
 
 import view.MyFrame;
-
+/**
+ * 
+ * @author Maciek
+ *
+ */
 public class MainTest {
 
 	public static void main(String[] args) {
